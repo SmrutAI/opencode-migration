@@ -17,7 +17,7 @@ Use this skill when you want OpenCode to reuse existing Claude Code assets witho
 Ask for confirmation before making filesystem changes.
 
 ## Playbook reference
-@/Users/tushar/.opencode/claude_migration_playbook.md
+@claude_migration_playbook.md
 
 ## Inputs I expect
 - Repo root path
